@@ -1,0 +1,15 @@
+package com.unicon.api.commons.beans;
+
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
+
+/**
+ *
+ * @author acrispin
+ */
+@SpringBootApplication
+@EnableAutoConfiguration(exclude = {DataSourceAutoConfiguration.class})
+public class ServiceCommonsBeansApplication {
+
+}
