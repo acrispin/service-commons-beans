@@ -1,4 +1,4 @@
-package com.unicon.api.planta.beans;
+package com.unicon.api.commons.beans.planta;
 
 import java.io.Serializable;
 
