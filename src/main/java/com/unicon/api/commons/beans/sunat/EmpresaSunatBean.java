@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class EmpresaSunatBean implements Serializable {
 
-    private static final long serialVersionUID = 1L;
+    private static final long serialVersionUID = -585029643687664596L;
 
     protected String ruc;
     protected String razonSocial;

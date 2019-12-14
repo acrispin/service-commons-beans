@@ -4,7 +4,8 @@ import java.io.Serializable;
 
 public class ResponseBean implements Serializable {
 
-    private static final long serialVersionUID = 1L;
+    private static final long serialVersionUID = 9040792045594810670L;
+
     /**
      * Operación satisfactoria
      */

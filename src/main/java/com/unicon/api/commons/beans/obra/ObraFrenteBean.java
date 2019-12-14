@@ -6,7 +6,7 @@ import java.math.BigDecimal;
 
 public class ObraFrenteBean implements Serializable {
 
-    private static final long serialVersionUID = 1L;
+    private static final long serialVersionUID = -9209574501810724068L;
 
     private int idMarca;
     private int idFrente;

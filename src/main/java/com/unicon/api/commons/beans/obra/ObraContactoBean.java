@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class ObraContactoBean implements Serializable {
 
-    private static final long serialVersionUID = 1L;
+    private static final long serialVersionUID = 2742522401871888546L;
 
     protected int idMarca;
     protected String codigoObra;

@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 public class ResponseClienteContactoBean extends ResponseBean implements Serializable {
 
-    private static final long serialVersionUID = 1L;
+    private static final long serialVersionUID = -8778633916153169165L;
 
     protected String codigoCliente;
     protected String secuencia;

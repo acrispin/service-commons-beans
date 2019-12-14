@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class PlantaOptimaBean implements Serializable {
 
-    private static final long serialVersionUID = 1L;
+    private static final long serialVersionUID = -4144543329271700519L;
 
     protected String codigoPlanta;
     // protected String descripcionPlanta;

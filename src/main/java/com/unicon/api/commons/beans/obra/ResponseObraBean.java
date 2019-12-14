@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 public class ResponseObraBean extends ResponseBean implements Serializable {
 
-    private static final long serialVersionUID = 1L;
+    private static final long serialVersionUID = -6988192893617919087L;
 
     protected String cuadrante;
 

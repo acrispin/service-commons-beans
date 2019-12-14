@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class ObraBean implements Serializable {
 
-    private static final long serialVersionUID = 1L;
+    private static final long serialVersionUID = 3245912208400897092L;
 
     protected Integer idMarca;
     protected String codigo;
